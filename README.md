@@ -1,4 +1,4 @@
-#This is a traditional turkish card game
+# This is a traditional turkish card game
 
 Main goal is if its your turn when you have two same cards in your hand you throw them to the center by clicking that two cards and selecting a card from your left side player.
 You shouldnt have King in your hand.
